@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku (五子棋)",
+  "description": "A beautiful, minimalist Gomoku (Five in a Row) game with a powerful Gemini AI opponent. Play against a friend locally or challenge the AI for a strategic match.",
+  "requestFramePermissions": []
+}
